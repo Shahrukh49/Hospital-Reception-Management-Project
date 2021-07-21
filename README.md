@@ -5,7 +5,14 @@ A receptionist can add patient information to the corresponding doctor with just
 Patients/ Public can tap on doctor to view their profile as well as their appointment time/ schedule 
 and all other necessary information.
 
-# main.py
+# Requirements
+1) pygame
+2) opencv
+3) numpy
+
+# How to run
+python3 main.py
+
 Project can be run through main.py file with all images inside folder
 
 # Screenshots
